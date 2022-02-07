@@ -6,7 +6,6 @@
 
 - [x] Adicionar Itens ao carinho
 - [x] Enviar mensagem para a loja
-- [x] Envia dados para o backend
 
 <h1> <img alt="Readme" tittle="Readme" src="./Animação.gif"><h1>
 
